@@ -1,5 +1,5 @@
-### Hi there 👋
-🌱 I’m currently learning Swift
+### Hi there, I'm Laura Monfort 👋
+🌱 I’m currently learning iOS mobile development (Swift)
 
 📫 How to reach me: https://www.linkedin.com/in/lmonfort/
 
