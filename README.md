@@ -6,7 +6,7 @@
 
 In addition, I have college studies and ten years of work experience in the digital marketing and communications field, a sector in which I developed some of my most outstanding skills, such as identifying and anticipating clients' needs, being a teamwork player, and results-driven oriented person.
 
-📲 I believe in software development as a mode to improve the quality of life. I am interested in the creation of carefully crafted technological products. That's the reason why I’m currently working on a collaborative project for the NGO field.
+📲 I believe in software development as a mode to improve the quality of life. I am interested in the creation of carefully crafted technological products.  That's why I’m currently working on a collaborative project for a non-profit association.
 
 Consequently, for the last few years, I have been learning programming languages and user experience (UX) while continuing to learn in various areas that have given me a responsible and socially committed vision.
 
