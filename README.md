@@ -10,7 +10,7 @@ In addition, I have college studies and ten years of work experience in the digi
 
 Consequently, for the last few years, I have been learning programming languages and user experience (UX) while continuing to learn in various areas that have given me a responsible and socially committed vision.
 
-🎯 My goal is to develop my professional career in software development to achieve the best possible results. To do this, I  take a creative look at any technical challenge. I am oriented to help people improve their lives through technology. I am oriented to help people improve their lives through technology. For this, I realise the importance of a clean code that facilitates teamwork.
+🎯 My goal is to develop my professional career in software development to achieve the best possible results. To do this, I  take a creative look at any technical challenge. I am oriented to help people improve their lives through technology. For this, I realise the importance of a clean code that facilitates teamwork.
 
 📫 Say hi: l.monfortgomez@gmail.com, https://www.linkedin.com/in/lmonfort/
 
