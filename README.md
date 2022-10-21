@@ -12,7 +12,7 @@ Consequently, for the last few years, I have been learning programming languages
 
 🎯 My goal is to develop my professional career in software development to achieve the best possible results. To do this, I  take a creative look at any technical challenge. 
 
-I am oriented to help people improve their lives through technology. For this, I realise the importance of a clean code that facilitates teamwork.
+I am oriented to help people improve their lives through technology. In order to achieve it, I also realise the importance of a clean code that facilitates teamwork.
 
 📫 Say hi: l.monfortgomez@gmail.com, https://www.linkedin.com/in/lmonfort/
 
