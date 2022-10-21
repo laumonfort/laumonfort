@@ -1,6 +1,7 @@
 ### Hi there! 👋  I'm Laura 👩🏻‍💻 
 
-![GithubReadmeIOSDeveloperWithLogo (1)](https://user-images.githubusercontent.com/106591528/197207393-e9b5cf3d-8a5a-422c-af84-80bcf7e4f733.png)
+![GithubReadMeiOSDevLaura](https://user-images.githubusercontent.com/106591528/197217886-2a56cdcc-25f9-491c-881a-018a8614e2e2.png)
+
 
 - 🔭 I’m currently working on a collaborative project for the NGO field.
 - 🌱 iOS mobile developer 
