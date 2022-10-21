@@ -1,8 +1,10 @@
-### Hi there! 👋  I'm Laura Monfort 👩🏻‍💻 
+### Hi there! 👋  I'm Laura 👩🏻‍💻 
+
+![GithubReadmeIOSDeveloperWithLogo (1)](https://user-images.githubusercontent.com/106591528/197207393-e9b5cf3d-8a5a-422c-af84-80bcf7e4f733.png)
+
 - 🔭 I’m currently working on a collaborative project for the NGO field.
 - 🌱 iOS mobile developer 
-
-📫 How to reach me: https://www.linkedin.com/in/lmonfort/
+- 📫 How to reach me: https://www.linkedin.com/in/lmonfort/
 
 <!--
 **laumonfort/laumonfort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +12,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
