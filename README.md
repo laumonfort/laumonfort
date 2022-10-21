@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a collaborative project for the NGO field.
 - 🌱 iOS mobile developer 
-- 📫 How to reach me: https://www.linkedin.com/in/lmonfort/
+- 📫 How to reach me: l.monfortgomez@gmail.com, https://www.linkedin.com/in/lmonfort/
 
 <!--
 **laumonfort/laumonfort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
