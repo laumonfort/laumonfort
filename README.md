@@ -2,7 +2,7 @@
 
 ![GithubReadMeiOSDevLaura](https://user-images.githubusercontent.com/106591528/197217886-2a56cdcc-25f9-491c-881a-018a8614e2e2.png)
 
-👩🏻‍💻 I'm Laura, a Software Developer graduated in Multiplatform Application Development (DAM) from Stucom (Barcelona).
+👩🏻‍💻 I'm a Software Developer who graduated in Multiplatform Application Development (DAM) from Stucom (Barcelona).
 
 In addition, I have college studies and ten years of work experience in the digital marketing and communications field, a sector in which I developed some of my most outstanding skills, such as identifying and anticipating clients' needs, being a teamwork player, and results-driven oriented person.
 
