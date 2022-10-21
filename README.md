@@ -1,5 +1,6 @@
 ### Hi there! 👋  I'm Laura Monfort 👩🏻‍💻 
-🌱 iOS mobile developer 
+- 🔭 I’m currently working on a collaborative project for the NGO field.
+- 🌱 iOS mobile developer 
 
 📫 How to reach me: https://www.linkedin.com/in/lmonfort/
 
