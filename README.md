@@ -1,6 +1,6 @@
 ### Hi there! 👋  
 
-![GithubReadMeiOSDevLaura](https://user-images.githubusercontent.com/106591528/197217886-2a56cdcc-25f9-491c-881a-018a8614e2e2.png)
+![GithubReadMeiOSDevLaura]
 
 👩🏻‍💻 I'm a Software Developer who graduated in Multiplatform Application Development (DAM) from Stucom (Barcelona).
 
