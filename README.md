@@ -3,7 +3,11 @@
 
 # 💫 About Me:
 
-✨ I'm a software developer who loves collaborative culture. I enjoy sharing knowledge in developer communities. In addition, my university studies and ten years of work experience in digital marketing and the communications field, helped me identify and anticipate customer needs, and have attention to detail.<br><br>📲 I believe software development can improve the quality of life. That's why I'm currently working on a collaborative project for a non-profit association. I take a creative look at any technical challenge.<br><br>🌱 Oriented to help people improve their lives through technology, I realize the importance of clean code that facilitates teamwork .<br><br>📫 How to contact me: l.monfortgomez@gmail, https://www.linkedin.com/in/lmonfort/
+✨ I'm a software developer who loves collaborative culture. I enjoy sharing knowledge in developer communities. 🍏 Swift is my first language. Although I'm always open to explore new technologies to obtain better results. I love learning about UX and various areas to complement my knowledge. As for me, I'm an Open-source contributor who enjoys nature, cultural activities, and chocolate.
+
+In formal terms, my university studies and ten years of work experience in digital marketing and the communications field, helped me identify and anticipate customer needs, and have attention to detail.<br><br>📲 I believe software development can improve the quality of life. That's why I'm currently working on a collaborative project for a non-profit association. <br><br>🌱 Oriented to help people improve their lives through technology, I realize the importance of clean code that facilitates teamwork.<br><br>📫 How to contact me: l.monfortgomez@gmail, https://www.linkedin.com/in/lmonfort/
+
+
 
 
 # 💻 Tech Stack:
