@@ -4,17 +4,14 @@
 
 # 💫 About Me:
 
-✨ I'm a software developer who loves collaborative culture. Graduated in Multiplatform Application Development, I enjoy sharing knowledge in developer communities.🍏 Swift is my first language. Although I'm always open to explore new technologies to obtain better results. I love learning about UX and various areas to complement my knowledge. As for me, I'm an Open-source contributor who enjoys nature, cultural activities, and chocolate.
+✨ I'm a software developer who loves collaborative culture. Graduated in Multiplatform Application Development, I enjoy sharing knowledge in developer communities.🍏 Swift is my first language. Although I'm always open to explore new technologies to obtain better results. I love learning about UX and various areas to complement my knowledge. As for me, I'm an Open-source contributor who enjoys nature and cultural activities.
 
-🔭 In formal terms, my university studies and ten years of work experience in digital marketing and the communications field, helped me identify and anticipate customer needs, and have attention to detail.
+🔭 In formal terms, my university studies and ten years of work experience in digital marketing and communications, helped me to identify and anticipate customer needs with meticulous attention to detail. Moreover, my experience as an iOS developer has provided me with a unique vision and understanding of the tech industry.
 
-📲 I believe software development can improve the quality of life. That's why I'm currently working on a collaborative project for a non-profit association. 🌱 Oriented to help people improve their lives through technology, I realize the importance of clean code that facilitates teamwork.<br><br>📫 How to reach me: l.monfortgomez@gmail, https://www.linkedin.com/in/lmonfort/
-
-
-
+📲 I believe that software development has the power to improve quality of life. This conviction is reflected in my current role in the public transportation sector, where I am focused on enhancing sustainability through technology. 🌱 Oriented to help people improve their lives through technology, I realize the importance of clean code that facilitates teamwork.<br><br>📫 How to reach me: l.monfortgomez@gmail, https://www.linkedin.com/in/lmonfort/
 
 # 💻 Tech Stack:
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=laumonfort&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=laumonfort&theme=dark&hide_border=false)<br/>
