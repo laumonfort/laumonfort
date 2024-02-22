@@ -8,7 +8,7 @@
 
 🔭 In formal terms, my university studies and ten years of work experience in digital marketing and communications, helped me to identify and anticipate customer needs with meticulous attention to detail. Moreover, my experience as an iOS developer has provided me with a unique vision and understanding of the tech industry.
 
-📲 I believe that software development has the power to improve quality of life. This conviction is reflected in my current role in the public transportation sector, where I am focused on enhancing sustainability through technology. 🌱 Oriented to help people improve their lives through technology, I realize the importance of clean code that facilitates teamwork.<br><br>📫 How to reach me: l.monfortgomez@gmail, https://www.linkedin.com/in/lmonfort/
+📲 I believe that software development has the power to improve quality of life. Currently, I am applying this belief in my role within the public transportation sector, focusing on using technology to drive sustainability 🌱 Oriented to help people improve their lives through technology, I realize the importance of clean code that facilitates teamwork.<br><br>📫 How to reach me: l.monfortgomez@gmail, https://www.linkedin.com/in/lmonfort/
 
 # 💻 Tech Stack:
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
