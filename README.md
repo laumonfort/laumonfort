@@ -1,10 +1,8 @@
 ### 👋 Hello world! 
-![BannerGithub Highlights](https://user-images.githubusercontent.com/106591528/208667339-c008f954-7042-45fd-91fb-fa0381847213.png)
-
 
 # 💫 About Me:
 
-✨ I'm a software developer who loves collaborative environments. I graduated in Multiplatform Application Development, and 🍏 Swift is my first language. I’m a dedicated team player, always ready to support and grow with my colleagues. Beyond the digital world, I appreciate nature and engaging in cultural activities.
+✨ I'm a **software developer** who loves collaborative environments. I graduated in Multiplatform Application Development, and 🍏 **Swift** is my first language. I’m a dedicated team player, always ready to support and grow with my colleagues. Beyond the digital world, I appreciate nature and engaging in cultural activities.
 
 🔭 In formal terms, my university studies and ten years of work experience in digital marketing and communications, helped me to identify and anticipate customer needs with meticulous attention to detail. Moreover, my experience as an iOS developer has provided me with a vision and understanding of the tech industry.
 
@@ -12,10 +10,7 @@
 
 # 💻 Tech Stack:
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![Asana](https://img.shields.io/badge/Asana-%23000000.svg?style=for-the-badge&logo=asana&logoColor=white) 
-![Slack](https://img.shields.io/badge/Slack-%23000000.svg?style=for-the-badge&logo=slack&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-%23000000.svg?style=for-the-badge&logo=postman&logoColor=white) 
 ![Gitlab](https://img.shields.io/badge/Gitlab-%23000000.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
 ![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white)
